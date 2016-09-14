@@ -1,11 +1,11 @@
-teamcity icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:bt230/statusIcon)][1]
-teamcity icon (https): [![](https://teamcity.jetbrains.com/app/rest/builds/buildType:bt230/statusIcon)][2]
+teamcity icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon)][1]
+teamcity svg icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon,svg)][3]
+teamcity icon (https): [![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon)][2]
 
-JetBrains logo via HTTPS: ![](https://www.jetbrains.com/img/logos/logo_JB_tagline.png)
+JetBrains logo via HTTPS: ![](https://www.jetbrains.com/_assets/shared/favicons/apple-touch-icon-180x180.png)
 
-JetBrains logo via HTTP: ![](http://www.jetbrains.com/img/logos/logo_JB_tagline.png)
-
-  [1]: http://teamcity.jetbrains.com/viewType.html?buildTypeId=bt230
-  [2]: https://teamcity.jetbrains.com/viewType.html?buildTypeId=bt230
+  [1]: http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon
+  [2]: https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon
+  [2]: http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon.svg
   
   
