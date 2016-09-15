@@ -23,4 +23,4 @@ Test 8: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox
 Test 9: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),count:4/statusIcon)
 
 
-Test 10: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:bt230),count:4/statusIcon)
+Test 10: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:bt452),count:4/statusIcon)
