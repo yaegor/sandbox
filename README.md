@@ -11,3 +11,5 @@ JetBrains logo via HTTPS: ![](https://www.jetbrains.com/_assets/shared/favicons/
   [3]: http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon.svg
   
   
+
+Test: ![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon)
