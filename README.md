@@ -18,3 +18,4 @@ Test 3: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox
 Test 4: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false/statusIcon)
 Test 5: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false,branch:(default:true)/statusIcon)
 Test 6: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false,branch:(default:any)/statusIcon)
+Test 7: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),count:2/statusIcon)
