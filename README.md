@@ -1,9 +1,26 @@
-teamcity icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:bt230/statusIcon)][1]
-teamcity icon (https): [![](https://teamcity.jetbrains.com/app/rest/builds/buildType:bt230/statusIcon)][2]
+teamcity icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon)][1]
 
-JetBrains logo via HTTPS: ![](https://www.jetbrains.com/img/logos/logo_JB_tagline.png)
+teamcity svg icon (http): [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon.svg)][3]
 
-JetBrains logo via HTTP: ![](http://www.jetbrains.com/img/logos/logo_JB_tagline.png)
+teamcity icon (https): [![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon)][2]
 
-  [1]: http://teamcity.jetbrains.com/viewType.html?buildTypeId=bt230
-  [2]: https://teamcity.jetbrains.com/viewType.html?buildTypeId=bt230
+JetBrains logo via HTTPS: ![](https://www.jetbrains.com/_assets/shared/favicons/apple-touch-icon-180x180.png)
+
+  [1]: http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon
+  [2]: https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon
+  [3]: http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest)/statusIcon.svg
+  
+  
+
+Test 1: ![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0/statusIcon)
+Test 2: ![](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false/statusIcon)
+Test 3: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0/statusIcon)
+Test 4: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false/statusIcon)
+Test 5: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false,branch:(default:true)/statusIcon)
+Test 6: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),start:0,personal:false,canceled:false,branch:(default:any)/statusIcon)
+Test 7: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),count:2/statusIcon)
+Test 8: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),count:3/statusIcon)
+Test 9: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:Sandbox_YaegorTest),count:4/statusIcon)
+
+
+Test 10: ![](https://teamcity.jetbrains.com/app/rest/builds/buildType:(id:bt452),count:4/statusIcon.svg)
